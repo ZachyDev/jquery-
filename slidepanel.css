@@ -1,0 +1,14 @@
+#panel {
+    background: teal;
+    padding: 6px;
+}
+
+#panel h2 {
+    margin-left: 45%;
+}
+
+.panel-content {
+    padding: 6px;
+    background: teal;
+    display: none;
+}
