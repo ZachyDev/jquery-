@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box {
+    height: 200px;
+    width: 300px;
+    background: teal;
+    top: 100px;
+    left: 500px;
+    position: absolute;
+}
+
+.btn {
+    margin: 300px 200px;
+}
+
+.btn button {
+    background: teal;
+    width: 100px;
+    height: 50px;
+    border-radius: 15%;
+    outline: none;
+}
