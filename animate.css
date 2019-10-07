@@ -1,0 +1,12 @@
+#box {
+    background: teal;
+    height: 50px;
+    width: 150px;
+    position: absolute;
+}
+
+h1 {
+    color: #6289af;
+    font-size: 50px;
+    position: absolute;
+}
