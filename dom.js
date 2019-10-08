@@ -5,4 +5,10 @@ $(document).ready(function() {
     $("#btn2").click(function() {
         alert($("#par").html());
     })
+    $("#submit-btn").click(function() {
+        alert($("#user_name").val());
+    })
+    $("#attr-btn").click(function() {
+        alert($("#attr").attr("href"));
+    })
 })
